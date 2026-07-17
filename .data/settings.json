@@ -281,7 +281,7 @@
   ],
   "condenseModel": "3b718553-2007-48e5-97a1-479608634b8f",
   "darkMode": "system",
-  "lastSettingPage": "general",
+  "lastSettingPage": "ai",
   "isRagEnabled": true,
   "fileManagerTextSize": "sm",
   "autoSync": "5",
@@ -469,7 +469,7 @@
     }
   },
   "githubImageUsername": "GyxChen",
-  "clipboardMonitor": true,
+  "clipboardMonitor": false,
   "language": "简体中文",
   "recordTextSize": "sm",
   "condenseMaxLength": 100,
@@ -620,7 +620,7 @@
             "content_type": "application/zip",
             "created_at": "2026-07-16T23:57:42Z",
             "digest": "sha256:1a96be4cee0f8c2cbf0543eb32cf467e2ed3a83075b6d4531e34a184d20a492e",
-            "download_count": 35,
+            "download_count": 51,
             "id": 479742869,
             "label": "",
             "name": "latest.json",
@@ -872,7 +872,7 @@
             "content_type": "application/zip",
             "created_at": "2026-07-16T23:57:18Z",
             "digest": "sha256:214534c500cac1a057797dd9fa4ab4d5706572a821f0be8f7adc8d6687f9c52c",
-            "download_count": 21,
+            "download_count": 29,
             "id": 479742507,
             "label": "",
             "name": "NoteGen_0.31.2_x64-setup.exe",
@@ -980,7 +980,7 @@
             "content_type": "application/zip",
             "created_at": "2026-07-16T23:57:17Z",
             "digest": "sha256:cc2966944de3323dbc4221962195e4512d50d19742e9805abf3b713a75edae3e",
-            "download_count": 14,
+            "download_count": 20,
             "id": 479742481,
             "label": "",
             "name": "NoteGen_0.31.2_x64_en-US.msi",
@@ -1052,7 +1052,7 @@
             "content_type": "application/zip",
             "created_at": "2026-07-16T23:47:46Z",
             "digest": "sha256:016f96e33f41c65cfedd4e151054edee6304038e06cd43abbae65972fcdbd8c5",
-            "download_count": 2,
+            "download_count": 3,
             "id": 479730673,
             "label": "",
             "name": "NoteGen_aarch64.app.tar.gz",
@@ -56551,7 +56551,7 @@
         "zipball_url": "https://api.github.com/repos/codexu/note-gen/zipball/app-v0.10.4"
       }
     ],
-    "updatedAt": 1784254335021
+    "updatedAt": 1784256937805
   },
   "audioModel": "",
   "mainImageHosting": "github"
