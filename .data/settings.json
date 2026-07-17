@@ -1,7 +1,8 @@
 {
   "showEditorUndoRedo": true,
-  "centerPanelVisible": false,
+  "centerPanelVisible": true,
   "githubCustomSyncRepo": "",
+  "showCloudFiles": true,
   "placeholderModel": "",
   "imageMethodModel": "",
   "giteaAutoSync": "disabled",
@@ -210,6 +211,7 @@
     }
   ],
   "speechToTextMode": "auto",
+  "autoReadClipboard": false,
   "markDescModel": "note-gen-chat",
   "currentTagId": 1,
   "globalSearchFilter": "all",
@@ -220,11 +222,13 @@
   "enableImageRecognition": true,
   "collapsibleList": [
     "",
-    "工作",
-    "工作/2026"
+    "工作/2026",
+    "工作/",
+    "工作/uniapp开发",
+    "工作/uniapp开发/上架相关"
   ],
   "currentPromptId": "0",
-  "leftSidebarTab": "files",
+  "leftSidebarTab": "notes",
   "shortcuts": [
     {
       "key": "openWindow",
@@ -277,7 +281,7 @@
   ],
   "condenseModel": "3b718553-2007-48e5-97a1-479608634b8f",
   "darkMode": "system",
-  "lastSettingPage": "dev",
+  "lastSettingPage": "sync",
   "isRagEnabled": true,
   "fileManagerTextSize": "sm",
   "autoSync": "5",
@@ -359,7 +363,7 @@
     }
   ],
   "proxy": "127.0.0.1:7890",
-  "activeTabId": "1784255638910-twuefy0cm",
+  "activeTabId": "",
   "noteGenDefaultModelsCache": {
     "content": {
       "models": [
@@ -386,6 +390,15 @@
     "fetchedAt": "2026-07-17T02:11:43.508Z",
     "versionCode": 103,
     "versionName": "1.0.3"
+  },
+  "rightSidebarVisible": true,
+  "desktopOnboardingProgress": {
+    "dismissed": true,
+    "steps": {
+      "ai-polish": false,
+      "create-record": true,
+      "organize-note": true
+    }
   },
   "primaryModel": "3b718553-2007-48e5-97a1-479608634b8f",
   "picgo": {
@@ -591,9 +604,10 @@
   "giteeCustomSyncRepo": "",
   "leftSidebarVisible": true,
   "autoUpdate": true,
-  "pin": true,
+  "pin": false,
   "currentPage": "/core/main",
   "sttModel": "note-gen-free-note-gen-stt",
+  "recordViewMode": "list",
   "completionModel": "note-gen-chat",
   "rerankingModel": "",
   "keepLatestCount": 4,
