@@ -281,7 +281,7 @@
   ],
   "condenseModel": "3b718553-2007-48e5-97a1-479608634b8f",
   "darkMode": "system",
-  "lastSettingPage": "editor",
+  "lastSettingPage": "about",
   "isRagEnabled": true,
   "fileManagerTextSize": "sm",
   "autoSync": "5",
@@ -620,7 +620,7 @@
             "content_type": "application/zip",
             "created_at": "2026-07-16T23:57:42Z",
             "digest": "sha256:1a96be4cee0f8c2cbf0543eb32cf467e2ed3a83075b6d4531e34a184d20a492e",
-            "download_count": 51,
+            "download_count": 60,
             "id": 479742869,
             "label": "",
             "name": "latest.json",
@@ -836,7 +836,7 @@
             "content_type": "application/vnd.android.package-archive",
             "created_at": "2026-07-16T23:51:55Z",
             "digest": "sha256:9d1add2747b9d405abb105c0122c3971336b1277739dfad5d72ade692b60f262",
-            "download_count": 18,
+            "download_count": 20,
             "id": 479736078,
             "label": "",
             "name": "NoteGen_0.31.2_android-arm64.apk",
@@ -872,7 +872,7 @@
             "content_type": "application/zip",
             "created_at": "2026-07-16T23:57:18Z",
             "digest": "sha256:214534c500cac1a057797dd9fa4ab4d5706572a821f0be8f7adc8d6687f9c52c",
-            "download_count": 29,
+            "download_count": 31,
             "id": 479742507,
             "label": "",
             "name": "NoteGen_0.31.2_x64-setup.exe",
@@ -56551,7 +56551,7 @@
         "zipball_url": "https://api.github.com/repos/codexu/note-gen/zipball/app-v0.10.4"
       }
     ],
-    "updatedAt": 1784256937805
+    "updatedAt": 1784259430396
   },
   "audioModel": "",
   "mainImageHosting": "github"
