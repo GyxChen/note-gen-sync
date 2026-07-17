@@ -213,14 +213,15 @@
   "markDescModel": "note-gen-chat",
   "currentTagId": 1,
   "globalSearchFilter": "all",
-  "activeFilePath": "Untitled.md",
+  "activeFilePath": "工作/2026",
   "githubUsername": "GyxChen",
   "jsdelivr": true,
   "autoPullOnSwitch": true,
   "enableImageRecognition": true,
   "collapsibleList": [
     "",
-    "工作"
+    "工作",
+    "工作/2026"
   ],
   "currentPromptId": "0",
   "leftSidebarTab": "files",
@@ -238,15 +239,7 @@
       "value": "CommandOrControl+Shift+T"
     }
   ],
-  "openTabs": [
-    {
-      "id": "1784255560967-55evmtnoz",
-      "isFolder": false,
-      "kind": "file",
-      "name": "Untitled.md",
-      "path": "Untitled.md"
-    }
-  ],
+  "openTabs": [],
   "embeddingModel": "note-gen-embedding",
   "githubCustomImageRepo": "note-gen-image-sync",
   "inspirationModel": "3b718553-2007-48e5-97a1-479608634b8f",
@@ -284,7 +277,7 @@
   ],
   "condenseModel": "3b718553-2007-48e5-97a1-479608634b8f",
   "darkMode": "system",
-  "lastSettingPage": "chat",
+  "lastSettingPage": "sync",
   "fileManagerTextSize": "sm",
   "autoSync": "5",
   "giteaInstanceType": "gitea.com",
@@ -365,7 +358,7 @@
     }
   ],
   "proxy": "127.0.0.1:7890",
-  "activeTabId": "1784255560967-55evmtnoz",
+  "activeTabId": "1784255596105-17o5ez3ve",
   "noteGenDefaultModelsCache": {
     "content": {
       "models": [
