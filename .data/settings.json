@@ -213,7 +213,7 @@
   "markDescModel": "note-gen-chat",
   "currentTagId": 1,
   "globalSearchFilter": "all",
-  "activeFilePath": "工作/2026",
+  "activeFilePath": "",
   "githubUsername": "GyxChen",
   "jsdelivr": true,
   "autoPullOnSwitch": true,
@@ -277,7 +277,8 @@
   ],
   "condenseModel": "3b718553-2007-48e5-97a1-479608634b8f",
   "darkMode": "system",
-  "lastSettingPage": "sync",
+  "lastSettingPage": "dev",
+  "isRagEnabled": true,
   "fileManagerTextSize": "sm",
   "autoSync": "5",
   "giteaInstanceType": "gitea.com",
@@ -358,7 +359,7 @@
     }
   ],
   "proxy": "127.0.0.1:7890",
-  "activeTabId": "1784255596105-17o5ez3ve",
+  "activeTabId": "1784255638910-twuefy0cm",
   "noteGenDefaultModelsCache": {
     "content": {
       "models": [
@@ -455,6 +456,7 @@
     }
   },
   "githubImageUsername": "GyxChen",
+  "clipboardMonitor": true,
   "language": "简体中文",
   "recordTextSize": "sm",
   "condenseMaxLength": 100,
@@ -589,6 +591,7 @@
   "giteeCustomSyncRepo": "",
   "leftSidebarVisible": true,
   "autoUpdate": true,
+  "pin": true,
   "currentPage": "/core/main",
   "sttModel": "note-gen-free-note-gen-stt",
   "completionModel": "note-gen-chat",
