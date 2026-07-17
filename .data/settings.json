@@ -213,12 +213,17 @@
   "markDescModel": "note-gen-chat",
   "currentTagId": 1,
   "globalSearchFilter": "all",
-  "activeFilePath": "",
+  "activeFilePath": "Untitled.md",
   "githubUsername": "GyxChen",
   "jsdelivr": true,
   "autoPullOnSwitch": true,
   "enableImageRecognition": true,
+  "collapsibleList": [
+    "",
+    "工作"
+  ],
   "currentPromptId": "0",
+  "leftSidebarTab": "files",
   "shortcuts": [
     {
       "key": "openWindow",
@@ -231,6 +236,15 @@
     {
       "key": "quickRecordText",
       "value": "CommandOrControl+Shift+T"
+    }
+  ],
+  "openTabs": [
+    {
+      "id": "1784255560967-55evmtnoz",
+      "isFolder": false,
+      "kind": "file",
+      "name": "Untitled.md",
+      "path": "Untitled.md"
     }
   ],
   "embeddingModel": "note-gen-embedding",
@@ -351,6 +365,7 @@
     }
   ],
   "proxy": "127.0.0.1:7890",
+  "activeTabId": "1784255560967-55evmtnoz",
   "noteGenDefaultModelsCache": {
     "content": {
       "models": [
